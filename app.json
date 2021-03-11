@@ -1,8 +1,8 @@
 {
-  "name": "CallsMusic",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "VoiceCallsMusic",
+  "description": "VoiceCallsMusic is a bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/prabhasha-p/MusicStreem/",
+  "repository": "https://github.com/KangPaste/VoiceCallsMusic/",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
