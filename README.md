@@ -12,7 +12,7 @@ Neither this, or PyTgCalls are fully stable.
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
 ## Deployment to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KangPaste/VCMusicHeroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KangPaste/VoiceCallsMusicHeroku/)
 
 
 ## Credits
