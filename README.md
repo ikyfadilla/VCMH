@@ -1,19 +1,3 @@
-# Voice Calls Music is a bot to play music in voice chats
-
-## Note
-
-Neither this, or PyTgCalls are fully stable.
-
-## Requirements
-
-- FFmpeg
-- NodeJS [nodesource.com](https://nodesource.com/)
-- Python 3.7+
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
-
-## Deployment to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KangPaste/VCMH/)
-
 
 ## Credits
 
