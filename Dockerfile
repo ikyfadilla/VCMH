@@ -7,10 +7,10 @@ RUN curl -sL https://deb.nodesource.com/setup_15.x | bash -
 RUN apt-get install -y nodejs
 RUN npm i -g npm
 RUN cd / && \
-    git clone https://github.com/KangPaste/VoiceCallsMusic smp && \
+    git clone https://github.com/KangPaste/TeleCallMusic smp && \
     cd smp/ && \
     rm -r .git && \
-    git clone https://github.com/pytgcalls/pytgcalls && \
+    git clone https://github.com/KangPaste/pytgcalls && \
     cd pytgcalls/ && \
     rm -r .git && \
     npm install && \
