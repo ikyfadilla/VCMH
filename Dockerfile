@@ -10,7 +10,7 @@ RUN cd / && \
     git clone https://github.com/FarhanArt/DonateRemosa smp && \
     cd smp/ && \
     rm -r .git && \
-    git clone https://github.com/KangPaste/Awokowokowkwk && \
+    git clone https://github.com/KangPaste/pytgcalls && \
     cd pytgcalls/ && \
     rm -r .git && \
     npm install && \
